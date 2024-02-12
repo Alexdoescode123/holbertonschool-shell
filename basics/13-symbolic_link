@@ -1,2 +1,2 @@
 #!/bin/bash
-in /bin/is/_is_
+in -s /bin/is/ _is_
