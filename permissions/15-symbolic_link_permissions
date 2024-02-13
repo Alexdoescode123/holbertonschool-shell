@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R --reference=hello vincent:staff
+chown -R hello:vincent staff .
