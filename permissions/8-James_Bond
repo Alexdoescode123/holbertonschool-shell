@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 007 hello
+touch ls_cwd_content $ echo ls -la > ls_cwd_content
