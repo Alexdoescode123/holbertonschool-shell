@@ -1,2 +1,2 @@
-#!/bin/bas
-echo set
+#!/bin/bash
+set
