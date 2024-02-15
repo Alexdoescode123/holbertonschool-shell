@@ -1,2 +1,2 @@
-#!/bin/bash
-echo PATH=$PATH wc -l 
+#!/bin/bash 
+PATH=$PATH | -type f -print | wc -l 
