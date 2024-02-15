@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /action > pwd | tail
+mkdir /action > pwd tail
